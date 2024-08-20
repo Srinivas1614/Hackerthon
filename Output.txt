@@ -1,0 +1,50 @@
+1. Register
+2. Login
+3. View Auctions
+4. Create Auction
+5. Place Bid
+6. Exit
+Enter your choice: 1
+Enter username: Srinivas
+Enter password: Srinu123
+User Srinivas registered successfully!
+1. Register
+2. Login
+3. View Auctions
+4. Create Auction
+5. Place Bid
+6. Exit
+Enter your choice: 2
+Enter username: Srinivas
+Enter password: Srinu123
+Welcome back, Srinivas!
+1. Create Auction
+2. Place Bid
+3. Logout
+Enter your choice: 1
+Enter auction title: Painting
+Enter auction description: Painting of mother and her son
+Enter starting price: 50
+Auction created successfully!
+1. Create Auction
+2. Place Bid
+3. Logout
+Enter your choice: 2
+Enter auction ID to bid on: 1
+Enter your bid amount: 60
+Bid placed successfully!
+1. Create Auction
+2. Place Bid
+3. Logout
+Enter your choice: 3
+1. Register
+2. Login
+3. View Auctions
+4. Create Auction
+5. Place Bid
+6. Exit
+Enter your choice: 6
+Exiting...
+Logged out successfully
+
+=== Code Execution Successful ===
